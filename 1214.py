@@ -1,7 +1,5 @@
 #  -*- coding: utf-8 -*-
 
-# Resposta correta mas não aceita
-
 c = int(input())
 respostas = []
 for i in range(0, c):
